@@ -30,7 +30,6 @@ ul li{
 .head{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
-    margin-top: -10px;
     margin-left: 30px;
     width: 40%;
 }
@@ -104,3 +103,4 @@ footer{
     }
 
 }
+
